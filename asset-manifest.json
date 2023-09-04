@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//github.com/jeremiahneri/Sample_React_Repository_Neri/static/css/main.88404e20.css",
+    "main.js": "//github.com/jeremiahneri/Sample_React_Repository_Neri/static/js/main.94ca4c48.js",
+    "static/js/787.d1d3cba8.chunk.js": "//github.com/jeremiahneri/Sample_React_Repository_Neri/static/js/787.d1d3cba8.chunk.js",
+    "static/media/1.jpeg": "//github.com/jeremiahneri/Sample_React_Repository_Neri/static/media/1.3ea3f7aecebf91406d34.jpeg",
+    "static/media/5.jpg": "//github.com/jeremiahneri/Sample_React_Repository_Neri/static/media/5.8e783cb61e3e4ec84685.jpg",
+    "static/media/3.jpg": "//github.com/jeremiahneri/Sample_React_Repository_Neri/static/media/3.fa162a88db12505ecbdc.jpg",
+    "static/media/6.jpg": "//github.com/jeremiahneri/Sample_React_Repository_Neri/static/media/6.e62e33c5bfe10ace2926.jpg",
+    "static/media/2.jpeg": "//github.com/jeremiahneri/Sample_React_Repository_Neri/static/media/2.4f8c96573eb83b96c1f3.jpeg",
+    "static/media/8.jpg": "//github.com/jeremiahneri/Sample_React_Repository_Neri/static/media/8.2afbebeba1f2bd5f46bb.jpg",
+    "static/media/7.jpg": "//github.com/jeremiahneri/Sample_React_Repository_Neri/static/media/7.4dee6112ed61979ca158.jpg",
+    "index.html": "//github.com/jeremiahneri/Sample_React_Repository_Neri/index.html",
+    "main.88404e20.css.map": "//github.com/jeremiahneri/Sample_React_Repository_Neri/static/css/main.88404e20.css.map",
+    "main.94ca4c48.js.map": "//github.com/jeremiahneri/Sample_React_Repository_Neri/static/js/main.94ca4c48.js.map",
+    "787.d1d3cba8.chunk.js.map": "//github.com/jeremiahneri/Sample_React_Repository_Neri/static/js/787.d1d3cba8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88404e20.css",
+    "static/js/main.94ca4c48.js"
+  ]
+}
