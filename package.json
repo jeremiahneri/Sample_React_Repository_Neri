@@ -1,5 +1,5 @@
 {
-  "homepage": "https://https://github.com/jeremiahneri/Sample_React_Repository_Neri",
+  "homepage": "http://jeremiahneri.github.io/Sample_React_Repository_Neri",
   "name": "wd76-lesson-2-react-application",
   "version": "0.1.0",
   "private": true,
@@ -11,6 +11,7 @@
     "react": "^18.2.0",
     "react-bootstrap": "^2.8.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.15.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },

@@ -9,6 +9,7 @@ import image5 from "./components/images/7.jpg";
 import image6 from "./components/images/8.jpg";
 import GridItems from "./components/GridItems";
 import Footer from "./components/Footer";
+import {BrowserRouter, Routes, Route} from 'react-router-dom';
 
 function App() {
   return (
